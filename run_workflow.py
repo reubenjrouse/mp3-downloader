@@ -1,13 +1,4 @@
 #!/usr/bin/env python3
-"""
-run_workflow.py — fetch, tag, and rename MP3s from artist/song or album names.
-
-No API keys required:
-  - YouTube search + download via yt-dlp's keyless `ytsearch:` prefix.
-  - Metadata + cover art via Apple's public iTunes Search/Lookup API.
-
-Requires: yt-dlp, mutagen, requests, and ffmpeg on PATH.
-"""
 
 import argparse
 import re
