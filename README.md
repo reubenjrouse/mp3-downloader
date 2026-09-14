@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e5e0b2c6-dc96-4f85-837d-aa48b5336dad">
-    <img src="https://github.com/user-attachments/assets/e5e0b2c6-dc96-4f85-837d-aa48b5336dad" width="300" alt="mp3-player">
+    <img src="https://github.com/user-attachments/assets/e5e0b2c6-dc96-4f85-837d-aa48b5336dad" width="200" alt="mp3-player">
   </picture>
 </p>
 
